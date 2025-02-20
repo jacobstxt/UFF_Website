@@ -1,0 +1,23 @@
+
+
+.myContainer {
+    padding: 0;
+    margin: auto;
+    width: 1280px;
+    margin-top: 80px;
+    flex-direction: column;
+    align-items: center;
+}
+ .myCenter {
+  text-align: center;
+}
+
+
+.text-red {
+    color: #ff0000;
+}
+
+
+
+
+/*# sourceMappingURL=ivan.css.map */

@@ -1,0 +1,35 @@
+﻿$screen-size: 1280px;
+$primary-color: #21c222;
+
+body{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+
+.myContainer {
+    padding: 0;
+    margin: auto;
+    width: $screen-size;
+
+    .myCenter {
+        text-align: center;
+    }
+
+    .custom-paragraph {
+        font-size: 18px;
+        color: #f1f1f1;
+        background-color: rgba(0, 0, 0, 0.7);
+        padding: 15px;
+        border-radius: 13px;
+        box-shadow: 3px 3px 10px rgba(255, 255, 255, 0.2);
+        text-align: justify;
+        max-width: 800px;
+        margin-left: 700px;
+        top: -150px;
+    }
+}
+
+.text-red {
+    color: $primary-color;
+}
